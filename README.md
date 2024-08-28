@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SinersSins
-- 👀 I’m interested in HTML,CSS, JAVASCRIPT
+- 👀 I’m interested in HTML,CSS, JAVASCRIPT, LINUX.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me - mail me at -  sinerssins@gmail.com
