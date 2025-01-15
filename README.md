@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @SinersSins
-- 👀 I’m interested in HTML,CSS, JAVASCRIPT, LINUX.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on anything.
+- 👋 Hi, I’m Pankaj Sharma.
+- 🧑🏼‍💻 MERN DEVELOPER
 - 📫 How to reach me - mail me at -  sinerssins@gmail.com
 - 😄 Pronouns: he/him
 
