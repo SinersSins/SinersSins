@@ -44,7 +44,7 @@ I'm a **Physics Post Graduate** turned **Full-Stack Developer**, driven by a pas
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding Man GIF" width="700" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Rocket Launch GIF" width="700" />
 </p>
 
 ---
@@ -55,6 +55,4 @@ I'm a **Physics Post Graduate** turned **Full-Stack Developer**, driven by a pas
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Rocket Launch GIF" width="700" />
-</p>
+
