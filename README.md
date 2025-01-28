@@ -1,9 +1,25 @@
-- 👋 Hi, I’m Pankaj Sharma.
-- 🧑🏼‍💻 MERN DEVELOPER
-- 📫 How to reach me - mail me at -  sinerssins@gmail.com
-- 😄 Pronouns: he/him
+# 👋 Hi, I’m Pankaj Sharma
+🧑🏼‍💻 **MERN Stack Developer**  
+📫 **How to reach me:**  
+- Email: [sinerssins@gmail.com](mailto:sinerssins@gmail.com)  
+😄 **Pronouns:** He/Him  
 
-<!---
-SinersSins/SinersSins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🔥 My Stats
+![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajsharma&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharma&layout=compact&theme=radical)  
+
+---
+
+## 🛠️ Projects
+- **Snack & Steer: Traffic Relief Dashboard**  
+  Revolutionizing solutions for traffic-stuck users with real-time delivery services, transportation options, and intelligent assistance.  
+
+- **V-Smartz: Smart Home Manager**  
+  Empowering smart home management with responsive design, device rendering, and customizable themes.  
+
+---
+
+## 🌟 About Me
+I'm a **Physics Post Graduate** and a passionate **MERN Stack Developer**. I love solving problems, building intuitive user interfaces, and working on innovative projects.
