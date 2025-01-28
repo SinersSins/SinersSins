@@ -1,17 +1,27 @@
-# 👋 Hi, I’m Pankaj Sharma  
-🧑🏼‍💻 **MERN Stack Developer**  
-📫 **How to reach me:**  
-- Email: [sinerssins@gmail.com](mailto:sinerssins@gmail.com)  
-- LinkedIn: [Pankaj Sharma](https://www.linkedin.com/in/sharmapankaj1810/)  
-😄 **Pronouns:** He/Him  
+# 👋 Hello, I'm Pankaj Sharma  
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+### 🧑🏼‍💻 MERN Stack Developer | Innovator | Problem Solver  
+
+I'm a **Physics Post Graduate** turned **Full-Stack Developer**, driven by a passion for creating impactful, user-friendly web applications. Here's what I bring to the table:  
+- 🚀 Building intuitive and scalable applications  
+- 🛠️ Crafting seamless frontend and backend integrations  
+- 🌱 Continuously exploring new technologies to stay ahead  
 
 ---
 
-## 🔥 My Stats  
-![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SinersSins&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SinersSins&layout=compact&theme=radical&langs_count=6)  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="700" />
+</p>
+
+---
+
+## 🔥 My GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SinersSins&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinersSins&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+</p>
 
 ---
 
@@ -33,18 +43,18 @@
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding Man GIF" width="700" />
+</p>
 
 ---
 
-## 🛠️ Projects  
-- **Snack & Steer: Traffic Relief Dashboard**  
-  Revolutionizing solutions for traffic-stuck users with real-time delivery services, transportation options, and intelligent assistance.  
-
-- **V-Smartz: Smart Home Manager**  
-  Empowering smart home management with responsive design, device rendering, and customizable themes.  
+## 📫 Let's Connect  
+- 📧 Email: [sinerssins@gmail.com](mailto:sinerssins@gmail.com)  
+- 🔗 LinkedIn: [Pankaj Sharma](https://www.linkedin.com/in/sharmapankaj1810/)  
 
 ---
 
-## 🌟 About Me  
-I'm a **Physics Post Graduate** and a passionate **MERN Stack Developer**. I love solving problems, building intuitive user interfaces, and working on innovative projects. My focus is on JavaScript and building efficient, scalable solutions.  
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Rocket Launch GIF" width="700" />
+</p>
