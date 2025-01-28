@@ -10,7 +10,7 @@ I'm a **Physics Post Graduate** turned **Full-Stack Developer**, driven by a pas
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="700" />
+  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Coding GIF" width="500" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ I'm a **Physics Post Graduate** turned **Full-Stack Developer**, driven by a pas
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Rocket Launch GIF" width="700" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Rocket Launch GIF" width="500" />
 </p>
 
 ---
@@ -54,5 +54,3 @@ I'm a **Physics Post Graduate** turned **Full-Stack Developer**, driven by a pas
 - 🔗 LinkedIn: [Pankaj Sharma](https://www.linkedin.com/in/sharmapankaj1810/)  
 
 ---
-
-
